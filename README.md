@@ -6,7 +6,6 @@ Hey there! Welcome to my full-stack task management application. I built this as
 
 This is a production-ready task management system where users can create, manage, and track their tasks. It's got everything you'd expect from a modern web app - secure authentication, role-based access, and a clean, responsive interface.
 
-The cool part? It's built with scalability in mind from day one. Whether you're handling 10 users or 10,000, the architecture is ready to grow with you.
 
 ## Tech Stack (The Good Stuff)
 
